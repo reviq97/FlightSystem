@@ -1,7 +1,5 @@
 package com.flightnation.flightnation.entity;
 
-import com.flightnation.flightnation.model.Baggage;
-import com.flightnation.flightnation.model.Cargo;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;

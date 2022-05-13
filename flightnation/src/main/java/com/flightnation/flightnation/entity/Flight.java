@@ -12,8 +12,8 @@ public class Flight {
 
     private Integer flightId;
     private Integer flightNumber;
-    private IATACode DEPARTURE_IATA_CODE;
-    private IATACode ARRIVAL_IATA_CODE;
+    private IATACode departureAirportIATACode;
+    private IATACode arrivalAirportIATACode;
     private String departureDate;
 
 }

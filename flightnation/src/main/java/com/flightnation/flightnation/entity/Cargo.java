@@ -1,6 +1,7 @@
-package com.flightnation.flightnation.model;
+package com.flightnation.flightnation.entity;
 
 import com.flightnation.flightnation.entity.BaggageAndCargoAbs;
+import com.flightnation.flightnation.model.WeightUnit;
 
 
 public class Cargo extends BaggageAndCargoAbs {

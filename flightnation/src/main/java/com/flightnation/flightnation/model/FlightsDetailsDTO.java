@@ -7,8 +7,8 @@ import lombok.Getter;
 @Getter
 public class FlightsDetailsDTO {
 
-    private Integer fromAirportFlights;
-    private Integer toAirportFlights;
+    private Long fromAirportFlights;
+    private Long toAirportFlights;
     private Integer totalPiecesOfBaggageArriv;
     private Integer totalPiecesOfBaggageDepart;
 

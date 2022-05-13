@@ -1,9 +1,7 @@
 package com.flightnation.flightnation.model;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
-import lombok.Getter;
 
-@Getter
 public enum IATACode {
         SEA("SEA"),
         YYZ("YYZ"),
